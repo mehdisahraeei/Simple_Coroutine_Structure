@@ -1,0 +1,8 @@
+result:
+
+
+2021-11-13 22:02:37.701 16584-16584/com.mahdi.coroutines I/hello: start->   main
+2021-11-13 22:02:38.713 16584-16621/com.mahdi.coroutines I/hello: DefaultDispatcher-worker-2
+2021-11-13 22:02:39.715 16584-16621/com.mahdi.coroutines I/hello: DefaultDispatcher-worker-2
+2021-11-13 22:02:40.713 16584-16584/com.mahdi.coroutines I/hello: it was canceled
+
