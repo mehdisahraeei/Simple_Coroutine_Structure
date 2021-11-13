@@ -1,0 +1,8 @@
+result:
+
+
+2021-11-13 21:45:47.829 15371-15371/com.mahdi.coroutines I/hello: main
+2021-11-13 21:45:48.842 15371-15408/com.mahdi.coroutines I/hello: DefaultDispatcher-worker-1
+2021-11-13 21:45:49.845 15371-15408/com.mahdi.coroutines I/hello: DefaultDispatcher-worker-1
+2021-11-13 21:45:51.854 15371-15412/com.mahdi.coroutines I/hello: yummy
+
