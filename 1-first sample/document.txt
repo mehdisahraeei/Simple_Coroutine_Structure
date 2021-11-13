@@ -1,0 +1,6 @@
+result:
+
+
+2021-11-13 21:39:05.873 14567-14567/com.mahdi.coroutines I/hello: main
+2021-11-13 21:39:06.886 14567-14602/com.mahdi.coroutines I/hello: DefaultDispatcher-worker-1
+
